@@ -81,6 +81,8 @@ same message, you can increase the maximum number of guests allowed.
 
 ![Alt text](https://origindetector.com/user-guide/CreateCustomerSupportChatKeys.webp?raw=true "Optional Title")
 
+After you click on create link button, it will show the meeting link key which is the **meetingLinkKey** and the password
+you provide will become **customerSupportKey** . Use these values for your chat widget parameters.
 
 Finally you can use the Chat client for Origin Detector (OD) customer support tools for your website. Just import and use it with keys
 
