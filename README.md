@@ -5,7 +5,7 @@ od-support-chat is a lightweight, embeddable customer support chat tool built fo
 
 ## Key Points
 ### Purpose:
-Enables live chat between customers and support teams directly within a website or platform.
+This widget will allow live chat between your customers and your support teams directly within your website or platform.
 
 ### Core Value:
 * Improves customer trust
@@ -21,8 +21,10 @@ Manufacturing companies and businesses using the Origin Detector (OD) platform
 * Considered a complimentary add-on, not a standalone product
 
 ### Positioning:
-* Not sold independently
+* Not sold independently, it is a complimentary chat widget with Origin Detector that our customer can use for their website.
 * Acts as an extra support feature within the OD ecosystem
+
+[![Watch the video](https://origindetector.com/awareness/customer-support-free-tool.webp)](https://www.youtube.com/watch?v=izE81ShGlLI)
 
 ### Alternative Mentioned:
 
