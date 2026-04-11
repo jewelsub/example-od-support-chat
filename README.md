@@ -110,3 +110,7 @@ Finally you can use the Chat client for Origin Detector (OD) customer support to
 
 <img src="https://origindetector.com/user-guide/customer-support.webp" height="500">
 
+## If you are a manufacturer, please follow this manufacturer's onboarding guide to get used to with the Origin Detector (OD) platform.
+### https://origindetector.com/user-guide/Manufacturer-Onboarding-Guide.pdf
+
+
