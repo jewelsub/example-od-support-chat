@@ -118,7 +118,7 @@ Finally you can use the Chat client for Origin Detector (OD) customer support to
 
 ### Alternative Mentioned:
 
-Alternatively, you can use the OptimizeTalk.com meeting tool independently and at no cost, regardless of whether you use the od-support-chat.
+Alternatively, you can use the OptimizeTalk.com meeting tool independently and at no cost, regardless of whether you use the od-support-chat widget or not.
 
 
 
