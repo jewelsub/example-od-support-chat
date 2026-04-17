@@ -26,10 +26,6 @@ Manufacturing companies and businesses using the Origin Detector (OD) platform
 
 [![Watch the video](https://origindetector.com/awareness/customer-support-free-tool.webp)](https://www.youtube.com/watch?v=izE81ShGlLI)
 
-### Alternative Mentioned:
-
-Alternatively, you can use the OptimizeTalk.com meeting tool independently and at no cost, regardless of whether you use the od-support-chat.
-
 ## Development
 
 - Install:
@@ -119,5 +115,10 @@ Finally you can use the Chat client for Origin Detector (OD) customer support to
 
 ## If you are a manufacturer, please follow this manufacturer's onboarding guide to get used to with the Origin Detector (OD) platform.
 ### https://origindetector.com/user-guide/Manufacturer-Onboarding-Guide.pdf
+
+### Alternative Mentioned:
+
+Alternatively, you can use the OptimizeTalk.com meeting tool independently and at no cost, regardless of whether you use the od-support-chat.
+
 
 
