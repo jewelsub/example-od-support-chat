@@ -28,13 +28,6 @@ Manufacturing companies and businesses using the Origin Detector (OD) platform
 
 ### Alternative Mentioned:
 
-The od-support-chat is a simple, embeddable customer support chat designed for the Origin Detector (OD) platform. It 
-facilitates real-time communication between customers and support teams, helping to build trust, verify products, and resolve issues.
-
-This chat tool is free for companies that already have a paid subscription to the Origin Detector platform. Essentially, 
-it serves as an added benefit for manufacturing companies using the platform. There are no additional licensing fees for 
-the od-support-chat itself, but you'll need to pay for a license for the Origin Detector platform to access this free tool.
-
 Alternatively, you can use the OptimizeTalk.com meeting tool independently and at no cost, regardless of whether you use the od-support-chat.
 
 ## Development
