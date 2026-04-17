@@ -40,7 +40,21 @@ Alternatively, you can use the OptimizeTalk.com meeting tool independently and a
 ## Development
 
 - Install:
+```bash
+npm install
+```
 
+- Build the project:
+```bash
+npm run build
+```
+
+- Starting the sample web application:
+```bash
+npm run dev
+```
+
+- Updating OD Support Chat widget to latest version:
 ```bash
 npm i od-support-chat
 ```
