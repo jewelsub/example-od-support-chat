@@ -981,10 +981,10 @@ object-hash@^3.0.0:
   resolved "https://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz"
   integrity sha512-RSn9F68PjH9HqtltsSnqYC1XXoWe9Bju5+213R98cNGttag9q9yAOTzdbsqvIa7aNm5WffBZFpWYr2aWrklWAw==
 
-od-support-chat@^1.0.43:
-  version "1.0.43"
-  resolved "https://registry.npmjs.org/od-support-chat/-/od-support-chat-1.0.43.tgz"
-  integrity sha512-pC7JnAp62NJzNP53C+LgH+09XGQaOyLoizitasTqKPOlk3amroZGmofTGJ2EtpOav/Q/gYDI2nqY8Kc45qs9KA==
+od-support-chat@^1.0.49:
+  version "1.0.49"
+  resolved "https://registry.npmjs.org/od-support-chat/-/od-support-chat-1.0.49.tgz"
+  integrity sha512-VGO8PW1IdiiPF51lKeCSTO4vQYNuOTUPYXRZZJzyh8RwaDumu8gPphSNLWEXz5oH8LN2bZkxXzGZe8Ng8pjTMQ==
 
 parse-entities@^2.0.0:
   version "2.0.0"
